@@ -1,1 +1,10 @@
-#mapid { height: 180px; }
+
+#mapid {
+  width: 1000px;
+  height: 1000px;
+}
+
+
+body {
+  background: #ffc84f;
+}
